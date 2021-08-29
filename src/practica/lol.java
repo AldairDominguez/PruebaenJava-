@@ -17,6 +17,7 @@ public class lol extends javax.swing.JFrame {
      * Creates new form lol
      */
     public lol() {
+        // Hola, soy un intruso en tu proyecto xD
         initComponents();
          this.setLocationRelativeTo(null);
     }
