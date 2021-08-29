@@ -18,6 +18,7 @@ public class lol extends javax.swing.JFrame {
      */
     public lol() {
         // Hola, soy un intruso en tu proyecto xD
+        // Otro comentario random
         initComponents();
          this.setLocationRelativeTo(null);
     }
